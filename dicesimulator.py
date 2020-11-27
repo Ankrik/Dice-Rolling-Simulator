@@ -26,26 +26,26 @@ while x == "y":
 	
 	if no == 1: 
 		print("[-----]") 
-		print("[	 ]") 
+		print("[     ]") 
 		print("[  0  ] ") 
-		print("[	 ]") 
+		print("[     ]") 
 		print("[-----]") 
 	if no == 2: 
 		print("[-----]") 
 		print("[  0  ]") 
-		print("[	 ]") 
+		print("[     ]") 
 		print("[  0  ]") 
 		print("[-----]") 
 	if no == 3: 
 		print("[-----]") 
-		print("[	 ]") 
+		print("[     ]") 
 		print("[0 0 0]") 
-		print("[	 ]") 
+		print("[     ]") 
 		print("[-----]") 
 	if no == 4: 
 		print("[-----]") 
 		print("[0   0]") 
-		print("[	 ]") 
+		print("[     ]") 
 		print("[0   0]") 
 		print("[-----]") 
 	if no == 5: 
@@ -57,7 +57,7 @@ while x == "y":
 	if no == 6: 
 		print("[-----]") 
 		print("[0 0 0]") 
-		print("[	 ]") 
+		print("[     ]") 
 		print("[0 0 0]") 
 		print("[-----]") 
 		
